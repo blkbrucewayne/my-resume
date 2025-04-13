@@ -1,0 +1,7 @@
+{
+    "name": "my-resume",
+    "compatibility_date": "2025-04-11",
+    "main": ".dist/"
+
+    // Remove "main": "src/worker.js" if present
+  }
