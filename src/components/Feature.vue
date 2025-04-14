@@ -12,7 +12,7 @@
         >
           <div class="avatar-frame">
             <img 
-              src="@/assets/pmp.png" 
+              src="@/assets/CISSP.jpeg" 
               alt="PMP Logo" 
               class="w-100 h-100"
             />
@@ -28,12 +28,13 @@
         >
           <div class="avatar-frame">
             <img 
-              src="@/assets/security+.png" 
+              src="@/assets/cloud.png" 
               alt="Security+ Logo" 
               class="w-100 h-100"
             />
           </div>
         </v-avatar>
+        
       </div>
       <p class="font-weight-medium text-primary">What Sets Me Apart</p>
       <h2 class="text-h5 font-weight-bold mb-2 text-sm-h4">Core Professional Strengths</h2>

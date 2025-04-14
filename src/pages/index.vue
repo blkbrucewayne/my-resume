@@ -4,7 +4,7 @@
   <Certifications />
   <Feature />
   <Testimonials />
-  <Github />
+
   <Projects />
   <Timeline />
 </template>
@@ -16,5 +16,4 @@ import Feature from '../components/Feature.vue'
 import Timeline from '../components/Timeline.vue'
 import Projects from '../components/Projects.vue'
 import Testimonials from '../components/Testimonials.vue'
-import Github from '../components/Github.vue'
 </script>

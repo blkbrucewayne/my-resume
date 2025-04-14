@@ -17,9 +17,9 @@
             class="d-flex flex-column align-center position-relative"
             style="margin-top: -128px"
           >
-            <v-avatar class="mb-4" image="@/assets/1696383167109.jpeg" size="120" />
+            <v-avatar class="mb-4" image="@/assets/dsc_3462.jpeg" size="170" />
   
-            <h1 class="text-h4 font-weight-bold">Tim Carrender</h1>
+            <h1 class="text-h4 font-weight-bold">Ralpheal A. Jenkins</h1>
   
             <div class="text-subtitle-1 text-medium-emphasis mb-4">Technical Project Manager</div>
   
