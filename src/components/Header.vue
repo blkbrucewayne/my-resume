@@ -21,7 +21,7 @@
   
             <h1 class="text-h4 font-weight-bold">Ralpheal A. Jenkins</h1>
   
-            <div class="text-subtitle-1 text-medium-emphasis mb-4">Technical Project Manager</div>
+            <div class="text-subtitle-1 text-medium-emphasis mb-4">Cloud Solutions Architect</div>
   
             <div class="d-flex ga-2 align-center">
               <v-btn color="primary" rounded="pill" variant="flat">Email</v-btn>

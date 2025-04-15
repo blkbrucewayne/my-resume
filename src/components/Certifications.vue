@@ -7,7 +7,7 @@
           class="font-weight-medium text-primary"
           :style="{ fontSize: textSize }"
         >
-          Project Management Expertise
+          Cybersecurity Professional
         </p>
         <!-- Bridging the Gap Between Teams with dynamic font size -->
         <p
@@ -21,7 +21,7 @@
           class="my-4 text-body-1 text-medium-emphasis"
           :style="{ fontSize: textSize }"
         >
-          As a PMP and Security+ certified project manager with a Top Secret Clearance, I leverage full-stack development expertise cultivated over the past 10 years outside the Army, alongside 20 years of military service. By translating these skills into impactful Army projects, I deliver solutions on time and to specification, fostering seamless collaboration between developers and stakeholders to achieve mission success.
+        I am an accomplished systems engineer with a proven track record in the military industry, complemented by strategic leadership roles such as Project Manager, Operations Manager of the Communications Planning Division, Deputy of Data Systems Management, and Data Systems Engineer/Deputy Chief Information Officer. My technical expertise spans VMware Server management, Local Area Network (LAN) administration, and Help Desk implementation. I am also proficient in Information Security, holding both a CISSP and CompTIA Cloud+ certification, as well as an active TS/SCI Clearance. These credentials reflect my ability to secure, design, and manage resilient enterprise systems in cloud and hybrid environments. I hold a Master of Science in Cyber Security from Webster University, and my broad experience and advanced education have equipped me to deliver high-impact solutions in complex and secure computing environments.
         </p>
 
         <!-- Features List with dynamic font size -->
