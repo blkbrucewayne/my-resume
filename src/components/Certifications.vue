@@ -79,8 +79,13 @@ const theme = useTheme();
 // Define features highlighting your capabilities
 const features = [
   {
-    title: 'University of Louisville',
-    subtitle: 'CompTIA instructor teaching over 200 students in the last 5 years.',
+    title: 'Webster University',
+    subtitle: 'Masters of Science in Cybersecurity.',
+    icon: 'mdi-school-outline',
+  },
+  {
+    title: 'Campbell University',
+    subtitle: 'Bachelor of Science in Information Systems Management.',
     icon: 'mdi-school-outline',
   },
   {
