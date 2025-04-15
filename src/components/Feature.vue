@@ -2,7 +2,7 @@
   <v-container class="pa-sm-9 pa-md-12" fluid>
     <div class="text-center mb-md-12 mb-6">
       <div class="d-flex justify-center align-center mb-6">
-        <!-- PMP Logo with Frame -->
+        <!-- PMP Logo without Frame -->
         <v-avatar
           class="avatar-custom mx-2"
           color="primary"
@@ -10,15 +10,13 @@
           size="120"
           elevation="8"
         >
-          <div class="avatar-frame">
-            <img 
-              src="@/assets/CISSP.jpeg" 
-              alt="PMP Logo" 
-              class="w-100 h-100"
-            />
-          </div>
+          <img 
+            src="@/assets/CISSP.jpeg" 
+            alt="PMP Logo" 
+            class="w-100 h-100"
+          />
         </v-avatar>
-        <!-- Security+ Logo with Frame -->
+        <!-- Security+ Logo without Frame -->
         <v-avatar
           class="avatar-custom mx-2"
           color="primary"
@@ -26,13 +24,11 @@
           size="120"
           elevation="8"
         >
-          <div class="avatar-frame">
-            <img 
-              src="@/assets/cloud.png" 
-              alt="Security+ Logo" 
-              class="w-100 h-100"
-            />
-          </div>
+          <img 
+            src="@/assets/cloud.png" 
+            alt="Security+ Logo" 
+            class="w-100 h-100"
+          />
         </v-avatar>
         
       </div>
@@ -132,13 +128,6 @@ p {
 
 .avatar-custom:hover {
   transform: scale(1.05); /* Slight zoom effect on hover */
-}
-
-.avatar-frame {
-  border: 3px solid #00000025; /* Blue frame around the logos */
-  border-radius: 50%; /* Circular frame */
-  padding: 4px; /* Space between the frame and the image */
-  background-color: #ffffff; /* White background for contrast */
 }
 
 /* Responsive and professional card layout for features */
