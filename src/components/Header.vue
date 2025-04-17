@@ -17,7 +17,7 @@
             class="d-flex flex-column align-center position-relative"
             style="margin-top: -128px"
           >
-            <v-avatar class="mb-4" image="@/assets/dsc_3462.jpeg" size="170" />
+            <v-avatar class="mb-4" image="@/assets/dsc_3462.jpeg" size="300" />
   
             <h1 class="text-h4 font-weight-bold">Ralpheal A. Jenkins</h1>
   
