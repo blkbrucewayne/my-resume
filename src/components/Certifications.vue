@@ -89,29 +89,34 @@ const features = [
     icon: 'mdi-school-outline',
   },
   {
-    title: 'Certified Project Leadership',
-    subtitle: 'PMP certification ensures disciplined project management, delivering projects on time and within budget.',
-    icon: 'mdi-account-tie',
-  },
-  {
-    title: '20 Years of Military Service',
-    subtitle: 'Extensive experience in high-pressure environments, ensuring effective communication and collaboration. Held multiple ranks throughout my career.',
+    title: '21 Years of Military Service',
+    subtitle: 'Proven success in high-pressure environments, ensuring clear communication, effective collaboration, and mission success. Held multiple ranks and executive-level leadership roles throughout my career.',
     icon: 'mdi-tank',
   },
   {
-    title: 'Full-Stack Development Skills',
-    subtitle: 'Proficient in front-end and back-end technologies for over 10 years, enabling seamless communication with development teams.',
-    icon: 'mdi-code-tags',
+    title: 'On-Premise Server Management',
+    subtitle: 'Proficient in managing VMware and on-premise server environments, ensuring optimal performance, scalability, and security for enterprise systems.',
+    icon: 'mdi-server'
+  },
+  {
+    title: 'Cloud Deployment Skills',
+    subtitle: 'I hold a CompTIA Cloud+ certification, demonstrating my expertise in cloud infrastructure and services. Additionally, I have received training in both Microsoft Azure and AWS environments, equipping me with a well-rounded understanding of multi-cloud operations and deployment strategies.',
+    icon: 'mdi-cloud-tags',
   },
   {
     title: 'Security Expertise',
-    subtitle: 'Security+ certification ensures secure project practices, safeguarding data and systems.',
+    subtitle: 'The CISSP certification validates expertise in implementing secure practices, protecting both data and systems throughout the project lifecycle.',
     icon: 'mdi-shield-lock-outline',
   },
   {
-    title: 'Agile Methodologies',
-    subtitle: 'Experience with Agile practices, ensuring flexibility and adaptability in project management.',
+    title: 'Project Management Skills',
+    subtitle: 'Formally trained in project management and experienced with Agile methodologies, ensuring adaptable and responsive project execution in dynamic environments.',
     icon: 'mdi-swap-horizontal',
+  },
+  {
+    title: 'Network Operations Management',
+    subtitle: 'Proficient in managing and optimizing network operations, ensuring seamless connectivity and performance across systems.',
+    icon: 'mdi-network'
   },
 ];
 

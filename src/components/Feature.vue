@@ -80,22 +80,22 @@
 <script setup>
   const items = [
     {
-      title: 'Proven Project Leadership',
-      subtitle: 'PMP® Certified with 18+ Years of Experience',
-      content: 'I spearhead complex projects with precision, delivering on time and within budget. My PMP certification and nearly two decades in the U.S. Army fuel my ability to manage agile software initiatives and create impactful solutions like the globally-used Ask Chief app.',
-      icon: 'mdi-briefcase-check',
-    },
-    {
       title: 'Network & Cybersecurity Expertise',
-      subtitle: 'Security+ Certified Network Specialist',
-      content: 'As an Army network manager, I oversee the setup and maintenance of critical communication networks, ensuring secure data flow across local and global systems. I configure equipment like Brocade, Juniper, and Cisco, troubleshoot issues, and implement protections to keep operations running and safe from cyber attacks.',
-      icon: 'mdi-shield-lock',
+      subtitle: 'Certified Information Systems Security Professional (CISSP)',
+      content: 'I am a Certified Information Systems Security Professional (CISSP) with a strong foundation in cybersecurity principles and practices. My expertise includes risk management, security architecture, and incident response, ensuring robust protection for sensitive data and systems.',
+      icon: 'mdi-shield-key'
     },
     {
-      title: 'AI-Powered Full-Stack Solutions',
-      subtitle: 'AWS, Flutter, Vue.js, and Beyond',
-      content: 'As the founder of TK Ingenuity Solutions, I build scalable, cloud-native applications with AI integration, leveraging AWS, Flutter, Expo, Vue.js, Python, Docker, React, and React Native to turn visionary ideas into reality.',
-      icon: 'mdi-robot', // Represents AI and advanced tech
+      title: 'Porject Management',
+      subtitle: 'Trained in Agile and PMP Methodologies',
+      content: 'I am trained in Agile and PMP methodologies, adept at leading cross-functional teams to deliver projects on time and within budget. My focus is on effective communication, stakeholder engagement, and continuous improvement to drive project success.',
+      icon: 'mdi-account-check'
+    },
+    {
+      title: 'On-Premise and Cloud Solutions',
+      subtitle: 'Cloud + Certified',
+      content: 'I am Cloud+ certified, with hands-on experience in designing and implementing on-premise and cloud solutions. My skills include cloud architecture, migration strategies, and hybrid cloud deployments, ensuring seamless integration and scalability.',
+      icon: 'mdi-cloud'
     },
   ]
 </script>
