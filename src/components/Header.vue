@@ -25,6 +25,7 @@
   
             <div class="d-flex ga-2 align-center">
               <v-btn color="primary" rounded="pill" variant="flat" href="mailto:ralphealajenkins@gmail.com">Email</v-btn>
+              <v-btn color="primary" rounded="pill" variant="flat" href="https://www.linkedin.com/in/ralphealjenkins" target="_blank">LinkedIn</v-btn>
             </div>
           </div>
         </v-container>
