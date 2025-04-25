@@ -120,14 +120,14 @@
   const projects = [
     {
       title: 'Infrastructure Management Project',
-      subtitle: 'Project Manager & Lead Developer',
-      duration: 'OCT 2018 - 2019',
+      subtitle: 'Director of IT Operations and Strategy',
+      duration: 'OCT 2018 - 2020',
       status: 'current',
       highlights: [
-        'Leading React Native mobile app development for alerts and newsletters.',
-        'Integrating AWS AppSync, DynamoDB, and GraphQL with backend team.',
-        'Implementing Stripe payments and AWS Cognito for secure authentication.',
-        'Deploying serverless architecture using AWS Serverless Framework.',
+        'Ensured 100% uptime of mission-critical communication systems.',
+        'Maintained secure, resilient infrastructure supporting 70,000 global clients.',
+        'Oversaw strict compliance with operational and cybersecurity standards.',
+        'Deployed server architecture on VMware Hypervisor.',
       ],
       icons: [
         'mdi-cellphone',
@@ -191,14 +191,14 @@
       ],
     },
     {
-      title: 'SaddleFit',
-      subtitle: 'Project Manager & Lead IT',
+      title: 'Agile Transformation for IT Deployments',
+      subtitle: 'Director of IT Future Operations and Strategy',
       duration: 'Sep 2023 - Present',
       status: 'current',
       highlights: [
-        'Overseeing development of C++ and C# software for 3D scanning technology.',
-        'Leading creation of a React-based custom website for saddle fitting and shopping.',
-        'Revolutionizing the equine industry with innovative tech solutions.',
+        'Accelerated deployment timelines by 25%.',
+        'Improved responsiveness to operational requirements.',
+        'Enhanced project delivery through Agile methodologies.',
         'Ensuring project completion through effective management and IT leadership.',
       ],
       icons: [
@@ -209,15 +209,14 @@
       ],
     },
     {
-      title: 'MaidDay App',
-      subtitle: 'Project Manager & Lead Developer',
+      title: 'Strategic Communications Modernization with 204 Telecom Teams',
+      subtitle: 'Director of IT Operations and Strategy',
       duration: 'March 2025 - Present',
       status: 'current',
       highlights: [
-        'Developing a gig-style app with React Native for maid service booking and tracking.',
-        'Implementing geo-fencing to connect customers with nearby maids efficiently.',
-        'Streamlining the bid process based on personal hiring experience.',
-        'Building a comprehensive platform to enhance service delivery for maids.',
+        'Optimized performance of 204 telecommunications asset teams.',
+        'Improved service delivery to a 70,000-user global client base.',
+        'Streamlined communications across 50+ agencies and units.',
       ],
       icons: [
         'mdi-cellphone',
