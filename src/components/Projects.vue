@@ -110,15 +110,7 @@
   
   <script setup>
   import { shallowRef, computed } from 'vue';
-  
-  // Import images as modules
-  import ffpInvestImage from '@/assets/ffpinvest.png';
-  import pmpStudyGuideImage from '@/assets/pmp-study-guide.png';
-  import askChiefImage from '@/assets/chief.png';
-  import cryptoSecureVaultImage from '@/assets/crypto-secure.jpeg';
-  import saddlefitImage from '@/assets/saddlefit.png';
-  import maiddayImage from '@/assets/Maid_Logo.png';
-  
+   
   const selectedFilter = shallowRef('current');
   
   const handleChangeFilter = (value) => {
@@ -149,7 +141,6 @@
       subtitle: 'Mobile App for PMP Exam Prep',
       duration: 'Past Project (Completed) 2023',
       status: 'past',
-      image: pmpStudyGuideImage,
       highlights: [
         'Developed with Flutter for cross-platform use.',
         'Features audio-visual lessons and mindset coaching.',
@@ -168,7 +159,6 @@
       subtitle: 'Global Tool for U.S. Army Soldiers',
       duration: 'Past Project (Completed) 2021 - 2022',
       status: 'past',
-      image: askChiefImage,
       highlights: [
         'Crafted a fine-tuned LLM with Flutter for soldier support, pre-dating ChatGPT.',
         'Enabled global access to AI-driven insights for soldiers.',
@@ -187,8 +177,6 @@
       subtitle: 'Cybersecurity Business Solution',
       duration: 'Nov 2017 - Jun 2019',
       status: 'past',
-      link: null,
-      image: cryptoSecureVaultImage,
       highlights: [
         'Founded a business focused on data breach prevention.',
         'Utilized AWS for secure infrastructure.',
@@ -207,8 +195,6 @@
       subtitle: 'Project Manager & Lead IT',
       duration: 'Sep 2023 - Present',
       status: 'current',
-      link: 'https://saddlefit.io',
-      image: saddlefitImage,
       highlights: [
         'Overseeing development of C++ and C# software for 3D scanning technology.',
         'Leading creation of a React-based custom website for saddle fitting and shopping.',
@@ -227,7 +213,6 @@
       subtitle: 'Project Manager & Lead Developer',
       duration: 'March 2025 - Present',
       status: 'current',
-      image: maiddayImage,
       highlights: [
         'Developing a gig-style app with React Native for maid service booking and tracking.',
         'Implementing geo-fencing to connect customers with nearby maids efficiently.',
