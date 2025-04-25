@@ -24,11 +24,7 @@
             <div class="text-subtitle-1 text-medium-emphasis mb-4">Cloud Solutions Architect</div>
   
             <div class="d-flex ga-2 align-center">
-              <v-btn color="primary" rounded="pill" variant="flat">Email</v-btn>
-  
-              <v-btn rounded="pill" variant="outlined">Resume</v-btn>
-  
-
+              <v-btn color="primary" rounded="pill" variant="flat" href="mailto:ralphealajenkins@gmail.com">Email</v-btn>
             </div>
           </div>
         </v-container>
@@ -38,4 +34,3 @@
   
   <script setup>
   </script>
-  

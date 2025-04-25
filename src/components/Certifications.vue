@@ -14,7 +14,7 @@
           class="mt-2 text-h5 font-weight-bold text-sm-h4 custom-title"
           :style="{ fontSize: textSize }"
         >
-          Bridging the Gap Between Teams
+        Mission-Focused. Cloud-Smart. Security-Driven
         </p>
         <!-- Description with dynamic font size -->
         <p
