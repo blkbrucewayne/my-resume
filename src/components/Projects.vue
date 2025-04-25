@@ -10,10 +10,10 @@
       >
         <p class="font-weight-medium text-primary">My Work</p>
         <h1 class="text-h4 font-weight-bold mb-4">
-          Projects Past and Present
+          Past Porject
         </h1>
         <p class="text-subtitle-1 text-medium-emphasis">
-          A showcase of my technical expertise and innovative solutions, from military tools to cutting-edge applications.
+          Highlights of my technical expertise and innovative solutions—ranging from military systems to advanced, modern applications.
         </p>
       </v-responsive>
   
@@ -127,12 +127,10 @@
   
   const projects = [
     {
-      title: 'FFP Invest    ',
+      title: 'Infrastructure Management Project',
       subtitle: 'Project Manager & Lead Developer',
-      duration: 'OCT 2024 - Present',
+      duration: 'OCT 2018 - 2019',
       status: 'current',
-      link: 'https://ertch.com',
-      image: ffpInvestImage,
       highlights: [
         'Leading React Native mobile app development for alerts and newsletters.',
         'Integrating AWS AppSync, DynamoDB, and GraphQL with backend team.',
