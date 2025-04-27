@@ -1,46 +1,53 @@
 <template>
-  <v-container class="pa-md-12 pa-sm-7 pb-12 custom-background" fluid elevation="2">
-    <v-responsive class="text-center mx-auto mb-6 mb-md-12" max-width="700">
-      <p class="font-weight-medium text-primary">My Work</p>
-      <h1 class="text-h4 font-weight-bold mb-4">Past Projects</h1>
-      <p class="text-subtitle-1 text-medium-emphasis">
-        Highlights of my technical expertise and innovative solutions—ranging from military systems to advanced, modern applications.
-      </p>
-    </v-responsive>
+  <v-container
+    class="pa-md-12 pa-sm-7 pb-12 custom-background text-center"
+    style="padding: 20px; border-radius: 15px;"
+    fluid
+    elevation="2"
+  >
+    <v-container max-width="900px">
+      <v-responsive class="text-center mx-auto mb-6 mb-md-12" max-width="700">
+        <p class="font-weight-medium text-primary">My Work</p>
+        <h1 class="text-h4 font-weight-bold mb-4">Past Projects</h1>
+        <p class="text-subtitle-1 text-medium-emphasis">
+          Highlights of my technical expertise and innovative solutions—ranging from military systems to advanced, modern applications.
+        </p>
+      </v-responsive>
 
-    <v-carousel hide-delimiters>
-      <v-carousel-item
-        v-for="(project, i) in projects"
-        :key="i"
-        :src="project.image"
-        cover
-      >
-        <v-container class="pa-6">
-          <h2 class="text-h5 font-weight-bold mb-2">{{ project.title }}</h2>
-          <p class="text-subtitle-2 mb-2 text-medium-emphasis">{{ project.subtitle }}</p>
-          <p class="text-body-1 mb-4 font-weight-medium">{{ project.duration }}</p>
-          <v-list class="py-0" density="compact">
-            <v-list-item
-              v-for="(highlight, index) in project.highlights"
-              :key="index"
-              class="px-0 text-body-2"
-            >
-              <v-icon class="mr-2" :icon="project.icons[index]" size="small" />
-              {{ highlight }}
-            </v-list-item>
-          </v-list>
-          <v-btn
-            v-if="project.link"
-            class="mt-4 text-none"
-            :color="project.status === 'current' ? 'primary' : 'black'"
-            text="Visit Site"
-            variant="flat"
-            :href="project.link"
-            target="_blank"
-          />
-        </v-container>
-      </v-carousel-item>
-    </v-carousel>
+      <v-carousel hide-delimiters>
+        <v-carousel-item
+          v-for="(project, i) in projects"
+          :key="i"
+          :src="project.image"
+          cover
+        >
+          <v-container class="pa-6 text-center">
+            <h2 class="text-h5 font-weight-bold mb-2">{{ project.title }}</h2>
+            <p class="text-subtitle-2 mb-2 text-medium-emphasis">{{ project.subtitle }}</p>
+            <p class="text-body-1 mb-4 font-weight-medium">{{ project.duration }}</p>
+            <v-list class="py-0" density="compact">
+              <v-list-item
+                v-for="(highlight, index) in project.highlights"
+                :key="index"
+                class="px-0 text-body-2"
+              >
+                <v-icon class="mr-2" :icon="project.icons[index]" size="small" />
+                {{ highlight }}
+              </v-list-item>
+            </v-list>
+            <v-btn
+              v-if="project.link"
+              class="mt-4 text-none"
+              :color="project.status === 'current' ? 'primary' : 'black'"
+              text="Visit Site"
+              variant="flat"
+              :href="project.link"
+              target="_blank"
+            />
+          </v-container>
+        </v-carousel-item>
+      </v-carousel>
+    </v-container>
   </v-container>
 </template>
 
@@ -164,7 +171,7 @@ const projects = [
 
 <style scoped lang="scss">
 .custom-background {
-  background-color: grey;
+  background-color: rgb(0, 0, 0, 0.15);
 }
 
 .v-carousel-item {
