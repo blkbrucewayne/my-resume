@@ -19,7 +19,7 @@
           >
             <v-avatar class="mb-4" image="@/assets/dsc_3462.jpeg" size="300" />
   
-            <h1 class="text-h4 font-weight-bold">Ralpheal A. Jenkin</h1>
+            <h1 class="text-h4 font-weight-bold">Ralpheal A. Jenkins</h1>
   
             <div class="text-subtitle-1 text-medium-emphasis mb-4">Cloud Solutions Architect</div>
   
