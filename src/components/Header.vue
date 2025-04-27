@@ -4,7 +4,7 @@
         <v-img
           cover
           height="200"
-          src="@/assets/high-quality-desktop-wallpaper.jpg"
+          src="@/assets/26961.jpg"
         />
   
         <v-container fluid>
