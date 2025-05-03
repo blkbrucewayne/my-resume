@@ -10,7 +10,7 @@
       <v-card class="mb-6" elevation="2">
         <v-card-title class="text-h5">Looking for Referrals</v-card-title>
         <v-card-text>
-          If you’ve worked with me—past or present—I’d greatly appreciate your insights! Please share your thoughts on my capabilities as a project manager, technical expertise, and ability to think outside the box. Your feedback helps showcase my strengths and impact. Thank you for taking a moment to contribute!
+          If we’ve worked together in any capacity, I’d be grateful for your perspective. I’m seeking feedback on my project management skills, technical expertise, and innovative thinking. Your insights help highlight the value and impact I bring to a team. Thank you for taking the time to share your thoughts!
         </v-card-text>
       </v-card>
 
@@ -151,64 +151,43 @@ const resetForm = () => {
 
 const testimonialTemplates = [
   {
-    text: "Our IT project thrived with Tim Carrender’s network expertise, delivering scalable systems on time."
+    text: "Ralpheal Jenkins’s cybersecurity expertise safeguarded our systems, ensuring project success."
   },
   {
-    text: "Tim Carrender ensured our project’s security with top-notch cybersecurity skills, meeting every deadline."
+    text: "Thanks to Ralpheal Jenkins’s leadership, our software rollout was secure and seamless."
   },
   {
-    text: "Workflows improved drastically under Tim Carrender’s coordination, yielding reliable network solutions."
+    text: "Ralpheal Jenkins drove our project forward, resolving security vulnerabilities with innovative solutions."
   },
   {
-    text: "With Tim Carrender optimizing our cloud setup, our project hit goals with efficient systems."
+    text: "Our network upgrades were fortified with Ralpheal Jenkins’s cybersecurity expertise."
   },
   {
-    text: "Major blockers vanished thanks to Tim Carrender’s quick problem-solving, keeping us on track."
+    text: "Ralpheal Jenkins’s planning ensured our systems remained secure and compliant."
   },
   {
-    text: "Tim Carrender’s skill in system rollouts aligned our teams for a flawless project launch."
+    text: "Stakeholders trusted our project’s security because of Ralpheal Jenkins’s meticulous management."
   },
   {
-    text: "Complex IT integrations? Tim Carrender handled them smoothly, delivering within scope."
+    text: "Ralpheal Jenkins’s focus on cybersecurity turned our cloud project into a secure success."
   },
   {
-    text: "Our tech project soared because Tim Carrender led with clarity and strong oversight."
+    text: "Under pressure, Ralpheal Jenkins mitigated security risks, keeping our project on track."
   },
   {
-    text: "Thanks to Tim Carrender’s leadership, our software rollout was seamless and on budget."
+    text: "Our system migration was secure and smooth, thanks to Ralpheal Jenkins’s technical expertise."
   },
   {
-    text: "Tim Carrender drove our project forward, fixing tech issues with creative solutions."
+    text: "Ralpheal Jenkins’s coordination ensured our network overhaul met the highest security standards."
   },
   {
-    text: "Our network upgrades succeeded with Tim Carrender’s expertise at the helm."
+    text: "With Ralpheal Jenkins guiding us, our tech integration was secure and ahead of schedule."
   },
   {
-    text: "Tim Carrender’s planning kept our cybersecurity tight, ensuring project success."
+    text: "Project risks were minimized with Ralpheal Jenkins’s strategic cybersecurity measures."
   },
   {
-    text: "Stakeholders stayed aligned because Tim Carrender managed our IT project so well."
-  },
-  {
-    text: "Tim Carrender’s focus on efficiency turned our cloud project into a win."
-  },
-  {
-    text: "Under pressure, Tim Carrender resolved issues fast, saving our project timeline."
-  },
-  {
-    text: "Our system migration was smooth, thanks to Tim Carrender’s technical know-how."
-  },
-  {
-    text: "Tim Carrender’s team coordination made our network overhaul a total success."
-  },
-  {
-    text: "With Tim Carrender guiding us, our tech integration finished ahead of schedule."
-  },
-  {
-    text: "Project risks dropped with Tim Carrender’s smart cybersecurity strategies in place."
-  },
-  {
-    text: "Tim Carrender’s oversight ensured our IT goals were met with precision."
+    text: "Ralpheal Jenkins’s oversight ensured our IT goals were met with robust security protocols."
   }
 ]
 
