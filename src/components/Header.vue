@@ -3,7 +3,7 @@
       <v-main>
         <v-img
           cover
-          height="200"
+          height="400"
           src="@/assets/26961.jpg"
         />
   
@@ -12,7 +12,7 @@
             <template #prepend>
             </template>
           </v-breadcrumbs>
-  
+          
           <div
             class="d-flex flex-column align-center position-relative"
             style="margin-top: -128px"
