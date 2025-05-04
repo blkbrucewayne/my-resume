@@ -57,7 +57,7 @@ const resumeCarousel = () => {
 
 onMounted(async () => {
   try {
-    const response = await fetch('https://59g9zt5bzf.execute-api.us-east-1.amazonaws.com/dev/testimonials')
+    const response = await fetch('https://jveww91jxg.execute-api.us-east-1.amazonaws.com/dev/testimonials')
     if (response.ok) {
       const data = await response.json()
       testimonials.value = Array.isArray(data) ? data : []
