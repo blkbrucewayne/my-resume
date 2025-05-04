@@ -117,7 +117,7 @@ const submitTestimonial = async () => {
     submitting.value = true
     console.log('Submitting payload:', JSON.stringify(testimonial.value, null, 2))
     try {
-      const response = await fetch('https://59g9zt5bzf.execute-api.us-east-1.amazonaws.com/dev/testimonials', {
+      const response = await fetch('https://jveww91jxg.execute-api.us-east-1.amazonaws.com/dev/testimonials', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
