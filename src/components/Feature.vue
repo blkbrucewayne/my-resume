@@ -12,7 +12,7 @@
         >
           <img 
             src="@/assets/CISSP.jpeg" 
-            alt="PMP Logo" 
+            alt="CISSP Logo" 
             class="w-100 h-100"
           />
         </v-avatar>
@@ -26,7 +26,22 @@
         >
           <img 
             src="@/assets/cloud.png" 
-            alt="Security+ Logo" 
+            alt="Cloud+ Logo" 
+            class="w-100 h-100"
+          />
+        </v-avatar>
+        
+        <!-- Add your new image here -->
+        <v-avatar
+          class="avatar-custom mx-2"
+          color="primary"
+          rounded
+          size="120"
+          elevation="8"
+        >
+          <img 
+            src="@/assets/ccna_med.jpg" 
+            alt="CCNA Logo" 
             class="w-100 h-100"
           />
         </v-avatar>
@@ -86,7 +101,7 @@
       icon: 'mdi-shield-key'
     },
     {
-      title: 'Porject Management',
+      title: 'Project Management',
       subtitle: 'Trained in Agile and PMP Methodologies',
       content: 'I am trained in Agile and PMP methodologies, adept at leading cross-functional teams to deliver projects on time and within budget. My focus is on effective communication, stakeholder engagement, and continuous improvement to drive project success.',
       icon: 'mdi-account-check'

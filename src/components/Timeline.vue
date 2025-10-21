@@ -28,25 +28,18 @@ const backgroundImage = new URL('../assets/56228.jpg', import.meta.url).href;
 
 const events = [
   {
-    title: 'Hiring Our Heros Fellowship',
-    date: 'October 1, 2025',
-    description: 'Start of my 8-week fellowship program to gain experience in the civilian workforce.',
+    title: 'Paid Time Off (PTO) / Leave Begins',
+    date: 'October 18, 2025 to 12 January, 2026',
+    description: 'Start 87 days of PTO / leave, resume release for Hiring Our Heros Fellowship begins and initiating the job application process.',
     color: 'blue',
-    icon: 'mdi-briefcase',
+    icon: 'mdi-calendar',
   },
   {
-    title: 'Terminal Leave Starts',
-    date: 'December 1, 2025',
-    description: 'Start 58 days of terminal leave, concluding military service and initiating the job application process.',
+    title: 'hiring Our Heroes Fellowship',
+    date: 'January 13, 2025 - March 13, 2026',
+    description: 'Hiring Our Heros Fellowship Intership Begins.',
     color: 'green',
-    icon: 'mdi-calendar-check',
-  },
-  {
-    title: 'Permissive TDY Begins',
-    date: 'January 28, 2026',
-    description: '20 days of permissive TDY for job searching and completing transition preparations.',
-    color: 'purple',
-    icon: 'mdi-home-search',
+    icon: 'mdi-briefcase',
   },
   {
     title: 'Retirement & Job Opportunities',
