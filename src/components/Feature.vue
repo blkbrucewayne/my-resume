@@ -11,7 +11,7 @@
           elevation="8"
         >
           <img 
-            src="@/assets/CISSP.jpg" 
+            src="@/assets/CISSP.jpeg" 
             alt="CISSP Logo" 
             class="w-100 h-100"
           />
