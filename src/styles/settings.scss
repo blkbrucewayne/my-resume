@@ -1,0 +1,29 @@
+/**
+ * src/styles/settings.scss
+ *
+ * Configures SASS variables and Vuetify overwrites
+ */
+
+// https://vuetifyjs.com/features/sass-variables/`
+@use 'vuetify/settings' with (
+  $color-pack: false
+);
+
+// Custom background color
+$custom-background-color: #494949b9;
+$custom-background-color-light: #174feb65;
+
+
+// Font families
+$font-family-open-sans: 'Open Sans', sans-serif;
+$font-family-times: 'Arial', serif;
+
+// Custom styles
+.custom-padding {
+  padding: 50px;
+}
+
+.custom-shape {
+  border-radius: 15px;
+}
+
